@@ -1,7 +1,5 @@
-# 👋 Hi there, I'm Raidel
-
 <!--
-**rpaez88/rpaez88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Raidel
 
 Here are some ideas to get you started:
 
@@ -14,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Profile views](https://komarev.com/ghpvc/?username=rpaez88&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/rpaez88?style=social)
+
+![giphy](https://github.com/user-attachments/assets/3f309e99-ace5-4471-9eb5-e17bae02c619)
+
+
+# 👋 Hi there, I'm Raidel
 
 ### 💻 Senior Fullstack Developer | .NET | Angular | Cloud | Microservices
 
