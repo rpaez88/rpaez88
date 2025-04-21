@@ -56,8 +56,17 @@ I'm a passionate software engineer with over 12 years of experience building sca
 
 ### 📊 GitHub Stats
 
-![Raidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpaez88&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpaez88&layout=compact&theme=tokyonight)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rpaez88&show_icons=true&hide_border=true" alt="Raidel Paez's GitHub Stats" width="400">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=rpaez88" alt="visitors" width="400"> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpaez88&layout=compact&langs_count=10)
+
+</div>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=gcristia.gcristia" alt="visitors">
+</div>
 
 ---
 
