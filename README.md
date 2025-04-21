@@ -30,7 +30,7 @@ I'm a passionate software engineer with over 12 years of experience building sca
 
 ### 🚀 Tech Stack
 
-**Languages**
+**Languages**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
