@@ -52,14 +52,12 @@ I'm a passionate software engineer with over 12 years of experience building sca
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<!--
 ---
 
 ### 📊 GitHub Stats
 
 ![Raidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpaez88&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpaez88&layout=compact&theme=tokyonight)
--->
 
 ---
 
