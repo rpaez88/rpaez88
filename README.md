@@ -73,6 +73,7 @@ I'm a passionate software engineer with over 12 years of experience building sca
 ### 🌐 Let's Connect
 
 - 📫 Email: raidel.paez88@email.com
+- My resume: https://www.self.so/raidel
 
 ---
 
